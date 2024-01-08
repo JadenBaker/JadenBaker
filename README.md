@@ -13,12 +13,12 @@ When I am not working I like to spend my time building
 investment research tools for value investors. To access
 these tools you can visit. 
 
-americaninvestmentresearch.com
+https://americaninvestmentresearch.com
 
 
 You can also view my personal portfolio to see more
 projects that I have built at the following URL.
 
-jadencb.com
+https://jadencb.com
 
 
